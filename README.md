@@ -17,7 +17,7 @@ git clone https://github.com/avinashvagh/prompt-collab.git
 Navigate into the project directory:
 
 ```bash
-cd PromptCollab
+cd Prompt-Collab
 ```
 
 Install dependencies:
