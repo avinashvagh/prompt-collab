@@ -36,7 +36,7 @@ npm run dev
 
 PromptCollab is built with:
 
-- **Frontend**: Next.js 13, React, Tailwind CSS for styling, globals.css for custom styling
+- **Frontend**: Next.js 13, React, Tailwind CSS
 - **Backend**: MongoDB, Mongoose, Next.js 13 API routes
 - **Authentication**: Google Cloud for Sign In, bcrypt, next-auth
 
