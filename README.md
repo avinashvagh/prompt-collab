@@ -4,7 +4,7 @@ Welcome to PromptCollab, an open-source full-stack application built with Next.j
 
 ## Live Link
 
-Check out the live version of PromptCollab [here](https://prompt-collab-4qa5jx0kx-avinashvagh.vercel.app).
+Check out the live version of PromptCollab [here](https://prompt-collab-4qa5jx0kx-avinashvagh.vercel.app)
 
 ## Installation
 
@@ -66,7 +66,7 @@ We are open to contributions. Feel free to open a pull request or branch from th
 
 ## License
 
-PromptCollab is an open-source project under [MIT license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
+PromptCollab is an open-source project under [MIT license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 
 ## Resources
 
