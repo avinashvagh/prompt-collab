@@ -44,9 +44,10 @@ PromptCollab is built with:
 
 - **User Authentication**: Sign in to the web application through Google.
 - **Prompt Management**: Create, edit, delete, and update prompts.
-- **Prompt Discovery**: Search for prompts using keywords.
-- **User Search**: Find users by searching for usernames or keywords.
-- **User Profiles**: View a user's profile by clicking on their username, email, or profile photo, and see the prompts they have created.
+<!-- - **Prompt Discovery**: Search for prompts using keywords. -->
+<!-- - **User Search**: Find users by searching for usernames or keywords. -->
+<!-- - **User Profiles**: View a user's profile by clicking on their username, email, or profile photo, and see the prompts they have created. -->
+- **View User Profile**: See the prompts user has created by clicking on profile Icon and copy created prompt to share it with others.
 
 ## Concepts Used
 
